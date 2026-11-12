@@ -1,16 +1,19 @@
 # classroom_finder
 
-A new Flutter project.
+A FLUTTER PROJECT WHERE THE WITH TWO DIFFERENT MODE ADMIN AND STUDENT
 
-## Getting Started
+#synopsis 
+this app is used for checking which classroom is empty in a hotel
 
-This project is a starting point for a Flutter application.
+## workflow
 
-A few resources to get you started if this is your first Flutter project:
+- user download the app
+- it will show the  interface of admin and student
+- student will have common id password
+- admin will have different password and id
+- the admin can create multiple sub-admin
+- and it can flag out which classroom is vacant and which  is occupied
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#TechStack 
+- flutter
+- firebase
